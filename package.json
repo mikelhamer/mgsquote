@@ -1,0 +1,14 @@
+{
+  "name": "mgsquote",
+  "version": "1.0.0",
+  "description": "MGS Quote Bot for Twitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mgs"
+  ],
+  "author": "madollamike",
+  "license": "ISC"
+}
