@@ -10,5 +10,8 @@
     "mgs"
   ],
   "author": "madollamike",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "tmi.js": "^1.8.5"
+  }
 }
