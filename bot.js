@@ -28,7 +28,7 @@ const quotes = [
   'I\'m no hero, never was, never will be. I\'m just an old killer, hired to do some wet work.',
   'War has changed.',
   'SNAAAAAAKKKKEEEEE!!!!!!',
-  'If You Ask Me, There’s No Happiness To Be Found In Death… No Peace, Either.',
+  'If You Ask Me, There’s No Happiness To Be Found In Death… No Peace, Either. I’m leaving here alive',
   'At Least I Always Fought For What I Believed In…',
   'HURT ME MORE!!!!',
   'That stance…',
@@ -37,9 +37,24 @@ const quotes = [
   'I\'m already a demon.',
   'I NEED SCISSORS! 61!',
   'THE LA LI LU LE LO!?',
-  'Hal...I miss you..'
+  'I\'m an Otaku too.',
+  'Hal...I miss you..',
+  'Snakes don’t belong in Alaska',
+  'Kuwabara kuwabara',
+  'Only a fool trust his life to a weapon',
+  'I am…Shalashaska',
+  'I hear it’s amazing when the famous purple stuffed worm in flap-jaw space with the tuning fork does a raw blink on Hara-Kiri Rock. I need scissors! 61!',,
+  'Ooohhhhh.... my stomach!',
+  'I was born on the battlefield. Conflict and victory were my parents',
+  'Hey. Shut up in there will ya!',
+  'What is this fairy disguise?',
+  'I FEEL ASLEEP',
+  'I... I can walk just fine. I can even run...',
+  'Laugh and grow fat!',
+
   // Add more quotes here
 ];
+
 
 // Called every time a message comes in
 function onMessageHandler (target, context, msg, self) {
