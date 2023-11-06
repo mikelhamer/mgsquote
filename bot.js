@@ -51,6 +51,32 @@ const quotes = [
   'I FEEL ASLEEP',
   'I... I can walk just fine. I can even run...',
   'Laugh and grow fat!',
+  'Eye have you',
+  'WELCOME COSSACK',
+  'There\'s nothing like like the feeling of slamming a long silver bullet into a well greased chamber.',
+  'The silver tongue. They say it\'s the mark of a good officer, and of a liar.',
+  'You knw what you\'re doing.',
+  'I used to hang around department store clock counters',
+  'The important thing is that you choose life... and then live!',
+  'I was a North American Fall Webworm in my past life. Those were the good old days... What were you in your former life?',
+  'Do you know what day it is tomorrow?',
+  'Not so young anymore, eh, Snake? You’re drowning in time. I know what it’s like, brother.',
+  'Five today...or rather, six?',
+  'Just call me Deepthroat',
+  'Just because soldiers are on the same side right now doesn\'t mean they always will be.',
+  'Major, what are you doing here? I\'ve been waiting for you in my room.',
+  'Does this pantywaist know what he\'s doing?',
+  'We\'ve managed to avoid drowning!!',
+  'What\'s it going to be? Loyalty to your country, or loyalty to yourself?',
+  'A cornered fox is more dangerous than a jackal!!',
+  'Snake? Do you think love can bloom even on the battlefield?',
+  'There’s no such thing as miracles, or the supernatural, only cutting edge technology!',
+  'Metal Gear?! It can\'t be!',
+  'They played us like a damn fiddle!!!',
+  'The Hudson River, Two Years Ago...'
+
+
+
 
   // Add more quotes here
 ];
